@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <title>Java SE </title>
+    <questions>
+        <question>
+            <quizquestion>MongoDB is a </quizquestion>
+            <answer>Relational Database</answer>
+            <answer>Object Relational Database</answer>
+            <answer>Graph Database</answer>
+            <answer>Document Database</answer>
+            <correct>3</correct>
+        </question>
+        <question>
+            <quizquestion>What is the name of MongoDB server ?</quizquestion>
+            <answer>mongoserver</answer>
+            <answer>mongod</answer>
+            <answer>mongodb</answer>
+            <answer>mongo</answer>
+            <correct>1</correct>
+          </question>
+          <question>
+            <quizquestion>What is the name of MongoDB client ?</quizquestion>
+            <answer>mongo</answer>
+            <answer>mongod</answer>
+            <answer>mongodb</answer>
+            <answer>mongo-client</answer>
+            <correct>0</correct>
+          </question>
+
+    </questions>
+</quiz>
